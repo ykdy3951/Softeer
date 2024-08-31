@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 def create_readme():
     # Create README.md
     with open("README.md", "w") as f:
-        f.write("# LeetCode\n")
-        f.write("Collection of LeetCode questions to ace the coding interview!\n\n")
+        f.write("# Softeer\n")
+        f.write("Solve Softeer's Problems!\n\n")
         f.write("## Table of Contents\n")
         f.write("| Title | Solution | Difficulty |\n")
         f.write("| ----- | -------- | ---------- |\n")

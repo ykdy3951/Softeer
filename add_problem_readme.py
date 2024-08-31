@@ -111,8 +111,6 @@ def create_readme(url : str):
     # Append all tags
 
     readme.append(title_tag)
-    readme.append("\n")
-    
     readme.append(difficulty_tag)
     readme.append("\n")
 
