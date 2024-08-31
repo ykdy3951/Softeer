@@ -1,0 +1,1 @@
+n=input();l=sorted(list(map(int,input().split())));print(max(l[-1]*l[-2],l[0]*l[1]))

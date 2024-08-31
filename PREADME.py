@@ -138,6 +138,9 @@ def create_readme(url : str):
     with open(f"{title}/README.md", "w") as f:
         f.write(str(readme))
 
+    # touch the file
+    os.system(f"touch {title}/{title}.py")
+    
     print(f"README.md created for {title}")
 
 create_readme(url)
