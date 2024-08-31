@@ -137,7 +137,7 @@ def create_readme(url : str):
     if not os.path.exists(title):
         os.makedirs(title)
 
-    with open(f"{title}/{title}.md", "w") as f:
+    with open(f"{title}/README.md", "w") as f:
         f.write(str(readme))
 
     print(f"README.md created for {title}")
