@@ -5,6 +5,7 @@ Solve Softeer's Problems!
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 | [A+B](https://softeer.ai/practice/6295) | [Python](./A+B/A+B.py) | Lv. 1 |
+| [[한양대_HCPC_2023]_개표](https://softeer.ai/practice/7698) | [Python](./[한양대_HCPC_2023]_개표/[한양대_HCPC_2023]_개표.py) | Lv. 1 |
 | [근무_시간](https://softeer.ai/practice/6254) | [Python](./근무_시간/근무_시간.py) | Lv. 1 |
 | [나무_심기](https://softeer.ai/practice/7353) | [Python](./나무_심기/나무_심기.py) | Lv. 1 |
 | [나무_출력](https://softeer.ai/practice/9655) | [Python](./나무_출력/나무_출력.py) | Lv. 1 |
