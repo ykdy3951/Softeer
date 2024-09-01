@@ -21,6 +21,7 @@ Solve Softeer's Problems!
 | [연탄_배달의_시작](https://softeer.ai/practice/7626) | [Python](./연탄_배달의_시작/연탄_배달의_시작.py) | Lv. 1 |
 | [연탄의_크기](https://softeer.ai/practice/7628) | [Python](./연탄의_크기/연탄의_크기.py) | Lv. 2 |
 | [위험한_효도](https://softeer.ai/practice/7368) | [Python](./위험한_효도/위험한_효도.py) | Lv. 1 |
+| [장애물_인식_프로그램](https://softeer.ai/practice/6282) | [Python](./장애물_인식_프로그램/장애물_인식_프로그램.py) | Lv. 2 |
 | [주행거리_비교하기](https://softeer.ai/practice/6253) | [C++](./주행거리_비교하기/주행거리_비교하기.cpp), [Python](./주행거리_비교하기/주행거리_비교하기.py) | Lv. 1 |
 | [진정한_효도](https://softeer.ai/practice/7374) | [Python](./진정한_효도/진정한_효도.py) | Lv. 2 |
 | [효도의_시작](https://softeer.ai/practice/7724) | [Python](./효도의_시작/효도의_시작.py) | Lv. 1 |
