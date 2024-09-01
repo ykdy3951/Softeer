@@ -7,6 +7,7 @@ Solve Softeer's Problems!
 | [A+B](https://softeer.ai/practice/6295) | [Python](./A+B/A+B.py) | Lv. 1 |
 | [[한양대_HCPC_2023]_Recovering_the_Region](https://softeer.ai/practice/9497) | [Python](./[한양대_HCPC_2023]_Recovering_the_Region/[한양대_HCPC_2023]_Recovering_the_Region.py) | Lv. 2 |
 | [[한양대_HCPC_2023]_Tren_del_Fin_del_Mundo](https://softeer.ai/practice/7695) | [Python](./[한양대_HCPC_2023]_Tren_del_Fin_del_Mundo/[한양대_HCPC_2023]_Tren_del_Fin_del_Mundo.py) | Lv. 1 |
+| [[한양대_HCPC_2023]_X_marks_the_Spot](https://softeer.ai/practice/7703) | [Python](./[한양대_HCPC_2023]_X_marks_the_Spot/[한양대_HCPC_2023]_X_marks_the_Spot.py) | Lv. 2 |
 | [[한양대_HCPC_2023]_Yeah,_but_How?](https://softeer.ai/practice/9498) | [Python](./[한양대_HCPC_2023]_Yeah,_but_How?/[한양대_HCPC_2023]_Yeah,_but_How?.py) | Lv. 2 |
 | [[한양대_HCPC_2023]_개표](https://softeer.ai/practice/7698) | [Python](./[한양대_HCPC_2023]_개표/[한양대_HCPC_2023]_개표.py) | Lv. 1 |
 | [근무_시간](https://softeer.ai/practice/6254) | [Python](./근무_시간/근무_시간.py) | Lv. 1 |
