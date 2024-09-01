@@ -11,6 +11,7 @@ Solve Softeer's Problems!
 | [[한양대_HCPC_2023]_Yeah,_but_How?](https://softeer.ai/practice/9498) | [Python](./[한양대_HCPC_2023]_Yeah,_but_How?/[한양대_HCPC_2023]_Yeah,_but_How?.py) | Lv. 2 |
 | [[한양대_HCPC_2023]_개표](https://softeer.ai/practice/7698) | [Python](./[한양대_HCPC_2023]_개표/[한양대_HCPC_2023]_개표.py) | Lv. 1 |
 | [근무_시간](https://softeer.ai/practice/6254) | [Python](./근무_시간/근무_시간.py) | Lv. 1 |
+| [금고털이](https://softeer.ai/practice/6288) | [Python](./금고털이/금고털이.py) | Lv. 2 |
 | [나무_공격](https://softeer.ai/practice/9657) | [Python](./나무_공격/나무_공격.py) | Lv. 2 |
 | [나무_심기](https://softeer.ai/practice/7353) | [Python](./나무_심기/나무_심기.py) | Lv. 1 |
 | [나무_출력](https://softeer.ai/practice/9655) | [Python](./나무_출력/나무_출력.py) | Lv. 1 |
