@@ -8,6 +8,7 @@ Solve Softeer's Problems!
 | [A+B](https://softeer.ai/practice/6295) | [Python](./A+B/A+B.py) | Lv. 1 |
 | [[21년_재직자_대회_예선]_비밀_메뉴](https://softeer.ai/practice/6269) | [Python](./[21년_재직자_대회_예선]_비밀_메뉴/[21년_재직자_대회_예선]_비밀_메뉴.py) | Lv. 2 |
 | [[21년_재직자_대회_예선]_전광판](https://softeer.ai/practice/6268) | [Python](./[21년_재직자_대회_예선]_전광판/[21년_재직자_대회_예선]_전광판.py) | Lv. 2 |
+| [[21년_재직자_대회_예선]_회의실_예약](https://softeer.ai/practice/6266) | [Python](./[21년_재직자_대회_예선]_회의실_예약/[21년_재직자_대회_예선]_회의실_예약.py) | Lv. 2 |
 | [[한양대_HCPC_2023]_Recovering_the_Region](https://softeer.ai/practice/9497) | [Python](./[한양대_HCPC_2023]_Recovering_the_Region/[한양대_HCPC_2023]_Recovering_the_Region.py) | Lv. 2 |
 | [[한양대_HCPC_2023]_Tren_del_Fin_del_Mundo](https://softeer.ai/practice/7695) | [Python](./[한양대_HCPC_2023]_Tren_del_Fin_del_Mundo/[한양대_HCPC_2023]_Tren_del_Fin_del_Mundo.py) | Lv. 1 |
 | [[한양대_HCPC_2023]_X_marks_the_Spot](https://softeer.ai/practice/7703) | [Python](./[한양대_HCPC_2023]_X_marks_the_Spot/[한양대_HCPC_2023]_X_marks_the_Spot.py) | Lv. 2 |
