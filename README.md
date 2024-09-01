@@ -6,6 +6,7 @@ Solve Softeer's Problems!
 | ----- | -------- | ---------- |
 | [8단_변속기](https://softeer.ai/practice/6283) | [Python](./8단_변속기/8단_변속기.py) | Lv. 2 |
 | [A+B](https://softeer.ai/practice/6295) | [Python](./A+B/A+B.py) | Lv. 1 |
+| [GBC](https://softeer.ai/practice/6270) | [Python](./GBC/GBC.py) | Lv. 2 |
 | [[21년_재직자_대회_예선]_비밀_메뉴](https://softeer.ai/practice/6269) | [Python](./[21년_재직자_대회_예선]_비밀_메뉴/[21년_재직자_대회_예선]_비밀_메뉴.py) | Lv. 2 |
 | [[21년_재직자_대회_예선]_전광판](https://softeer.ai/practice/6268) | [Python](./[21년_재직자_대회_예선]_전광판/[21년_재직자_대회_예선]_전광판.py) | Lv. 2 |
 | [[21년_재직자_대회_예선]_회의실_예약](https://softeer.ai/practice/6266) | [Python](./[21년_재직자_대회_예선]_회의실_예약/[21년_재직자_대회_예선]_회의실_예약.py) | Lv. 2 |
