@@ -4,6 +4,7 @@ Solve Softeer's Problems!
 ## Table of Contents
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [8단_변속기](https://softeer.ai/practice/6283) | [Python](./8단_변속기/8단_변속기.py) | Lv. 2 |
 | [A+B](https://softeer.ai/practice/6295) | [Python](./A+B/A+B.py) | Lv. 1 |
 | [[한양대_HCPC_2023]_Recovering_the_Region](https://softeer.ai/practice/9497) | [Python](./[한양대_HCPC_2023]_Recovering_the_Region/[한양대_HCPC_2023]_Recovering_the_Region.py) | Lv. 2 |
 | [[한양대_HCPC_2023]_Tren_del_Fin_del_Mundo](https://softeer.ai/practice/7695) | [Python](./[한양대_HCPC_2023]_Tren_del_Fin_del_Mundo/[한양대_HCPC_2023]_Tren_del_Fin_del_Mundo.py) | Lv. 1 |
